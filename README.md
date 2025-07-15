@@ -71,3 +71,4 @@ Text-based console menus:
 ✨ In short:
 --> "A simple C++ product & stock management system built to help small departments or shops organize products, track sales, and save favorite items with real-time file storage."
 
+Written by - Sayantan Banerjee.
