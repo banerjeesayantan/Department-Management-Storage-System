@@ -50,12 +50,12 @@ The program loads all saved products from products.txt into memory.
 You’ll see the main menu:
 1. Admin
 2. User
-*. Exit
+3. Exit
 
 ✅ Choose:
-Admin → for managing products (add, edit, delete, view)
-User → for browsing products, buying items, saving items
-Exit → to close the system
+- Admin → for managing products (add, edit, delete, view)
+- User → for browsing products, buying items, saving items
+- Exit → to close the system
 
 ✅ Admin can:
 - Add new products (name, ID, company, price, stock)
