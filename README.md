@@ -20,36 +20,13 @@ Department-Management-Storage-System
 
 ##Lightweight: no external database; runs on any standard C++ compiler
 
+
 Where you can use this code:
 - College department stores (stationery, books, lab items)
 - Small retail shops needing an offline stock manager
 - Backend prototype for inventory modules in a bigger system
 
 ##Learning project to understand file handling, OOP, and menus in C++.
-
-🧩 System & Architecture (explained simply):
-
-┌─────────────┐        ┌─────────────┐
-│ Admin Menu  │◀─────▶│ User Menu   │
-└─────────────┘        └─────────────┘
-        │                    │
-        ▼                    ▼
-   ┌───────────┐       ┌────────────┐
-   │ optionAdmin│       │ optionUser │
-   └───────────┘       └────────────┘
-        │                    │
-        └─────────────┬──────┘
-                      ▼
-               ┌────────────┐
-               │ products[] │ (Array of products)
-               └────────────┘
-                      │
-                      ▼
-          ┌────────────────────┐
-          │ products.txt file  │ (Save/Load products)
-          └────────────────────┘
-
-
 
 ✅ Classes:
 - optionAdmin: add/edit/delete products, see stock & sold count.
