@@ -1,0 +1,2 @@
+aa,aaa,aa,12,250,0
+sss,aaa,aaa,55,100,0
