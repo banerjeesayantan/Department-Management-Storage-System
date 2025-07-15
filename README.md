@@ -84,7 +84,9 @@ You’ll see the main menu:
 - Data is stored in a simple text file (products.txt).
 - No database or network needed — perfect for small shops or departments.
 - Users can add, edit, delete, view, buy, or save products easily.
---> "A simple C++ product & stock management system built to help small departments or shops organize products, track sales, and save favorite items with real-time file storage."
+
+
+#"A simple C++ product & stock management system built to help small departments or shops organize products, track sales, and save favorite items with real-time file storage."
 
   
 Written by - Sayantan Banerjee.
